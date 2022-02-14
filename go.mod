@@ -1,4 +1,4 @@
-module github.com/Aidahar/lecture-00
+module github.com/Bekbo01/lecture-00
 
 go 1.17
 
